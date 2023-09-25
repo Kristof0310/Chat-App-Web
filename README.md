@@ -1,4 +1,4 @@
-# **What?**
+# **About This App?**
 A full stack chat application made with the power of `React.js` on frontend and the backend supported with `Nest.js`, it has real time chat support with `WebSockets` and audio video chat along with screen sharing with the help of the `WebRTC` api. And for more help we are using lots of open source free to use libraries to manage our workflow.
 ___
 <br>
